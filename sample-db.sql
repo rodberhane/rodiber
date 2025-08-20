@@ -1,2 +1,2 @@
 create database student;
-create table std;
+crea
